@@ -1,0 +1,6 @@
+{
+  "name": "TOPIK I - Lộ Trình 8 Tuần Tự Học Tiếng Hàn",
+  "description": "Ứng dụng tự học và luyện thi TOPIK I trong 8 tuần dành cho người Việt: Lộ trình chuẩn, từ vựng flashcard, bài giảng ngữ pháp, luyện nghe - đọc và ôn tập lỗi sai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
