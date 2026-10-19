@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
     return {
-    base: '/topik-i-study-app/',
+    base: '/Topik-i-study-app/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
